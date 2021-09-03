@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeincrypt&show_icons=true&count_private=true)(https://github.com/codeincrypt)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeincrypt&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeincrypt&count_private=true)](https://github.com/codeincrypt)
 
