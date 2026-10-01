@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 <h1 align="center">Hi 👋, I'm Kartik Swarnkar</h1>
 <h3 align="center">Sr. Software Engineer · Full Stack · Node.js · React · Cloud · Web3</h3>
 
